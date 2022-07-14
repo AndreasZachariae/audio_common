@@ -39,6 +39,7 @@ install(PROGRAMS
   scripts/is_speaking.py
   scripts/playbuiltin.py
   scripts/play.py
+  scripts/play_from_topic.py
   scripts/say.py
   scripts/shutup.py
   scripts/soundplay_node.py
